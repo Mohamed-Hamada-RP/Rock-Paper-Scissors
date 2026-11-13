@@ -4,7 +4,7 @@
 
 A simple terminal-based **Rock, Paper, Scissors** game in Python, where you play against the computer
 
-# Examole
+# Example
 Welcome to our game! Choose between:
 1: Rock 
 2: Paper 
